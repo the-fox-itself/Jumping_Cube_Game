@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="Jumper">
+    <output-path>$PROJECT_DIR$/out/artifacts/Jumper</output-path>
+    <root id="root">
+      <element id="archive" name="Jumper.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Geometry Dash" />
+      </element>
+    </root>
+  </artifact>
+</component>
